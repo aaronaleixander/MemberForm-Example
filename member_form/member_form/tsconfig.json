@@ -1,0 +1,12 @@
+
+{
+    "files": [
+        "typescript/member.ts"
+    ],
+    "compilerOptions": {
+        "removeComments": true,
+        "outDir": "scripts",
+        "target": "es6",
+        "watch" : true
+    }
+}
